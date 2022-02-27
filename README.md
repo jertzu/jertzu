@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jertzu
+- 👋 Hi, I’m Jere Sikstus, aka Jertzu
 - 👀 I’m interested in programming, video games and combat sports
 - 🌱 I’m currently studying Business Information Technology at Haaga-Helia
 - 📫 You can reach me through my email jere@sikstus.com
